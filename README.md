@@ -2,3 +2,5 @@
 mans pirmais repozitorijs
 
 darbs ar GitHub
+
+Ričards Krastiņš
